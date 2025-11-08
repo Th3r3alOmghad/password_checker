@@ -1,0 +1,10 @@
+Rules:
+
+Length must be between 8 and 20 characters (inclusive)
+Must start with a letter (A-Z or a-z)
+Must include at least one lowercase letter (a-z)
+Must include at least one uppercase letter (A-Z)
+Must include at least one digit (0-9)
+Must include at least one special character from this set: !@#$%^&*?
+Must not contain any spaces
+Must not have three identical characters in a row (like "aaa" or "111")
